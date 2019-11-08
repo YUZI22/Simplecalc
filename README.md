@@ -3,4 +3,4 @@ This is a project, in which will be a simple calculator that will be developed. 
 https://www.programiz.com/python-programming/examples/calculator
 
 If anyone wants to contribute to the code that will make me more than happy. 
-I will also be testing stuff as I go along to help my understand this. Like how variables work etc.. (remember I'm no expert)
+I will also be testing stuff as I go along to help my understanding of this. Like how variables work etc.. (remember I'm no expert)
