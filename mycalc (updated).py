@@ -8,6 +8,8 @@ while True:
     print("2.Subtract")
     print("3.Multiply")
     print("4.Divide")
+    print("5.Power")
+    print("6.Remainder")
 
     def add (x, y):
         return x + y
@@ -21,13 +23,19 @@ while True:
     def divide(x ,y):
         return x / y
 
-    choice = input("Enter choice(1/2/3/4): ")
+    def power(x, y):
+        return x ** y
+
+    def remainder(x, y):
+        return x % y
+
+    choice = input("Enter choice(1/2/3/4/5/6): ")
 
     if len(choice) > 1:
         print ("Only one character is allowed.")
         break
 
-    if choice > '4.': # (REFER TO TAG 1) : Seeing if this would work ( something to compare to )
+    if choice > '6.': # (REFER TO TAG 1) : Seeing if this would work ( something to compare to )
         print ("Invalid Input")
         answer = input('Run again? (y/n): ')
         if answer == ('y'):
@@ -35,7 +43,7 @@ while True:
         if answer == ('n'):
             sys.exit()
 
-    if choice == '1234':
+    if choice == '123456':
         print ("Invalid Input")
         answer = input('Run again? (y/n): ')
         if answer == ('y'):
@@ -62,9 +70,15 @@ while True:
         print(num1,"*",num2,"=", multiply(num1,num2))
     elif choice == "4": # Changed single speech mark to double.
         print(num1,"/",num2,"=", divide(num1,num2))
+    elif choice == "5": # Changed single speech mark to double.
+        print(num1,"**",num2,"=", power(num1,num2))
+    elif choice == "6": # Changed single speech mark to double.
+        print(num1,"%",num2,"=", remainder(num1,num2))
     else:
         print("Invalid Input")
 
+
+# to the power of, https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators 
 # nvm just made it end the script when 2 characters are detected.
 # how len works: https://www.geeksforgeeks.org/python-string-length-len/ reads the contents of a string or variable in len 
 # added only 1 character allowed prompt at "select operation" credit: https://stackoverflow.com/questions/12955495/raw-input-should-accept-only-single-character
