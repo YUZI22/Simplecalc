@@ -1,9 +1,26 @@
 import os
 import sys
 
+def add (x, y):
+        return x + y
+
+def subtract (x, y):
+    return x - y
+
+def multiply(x, y):
+    return x * y
+
+def divide(x ,y):
+    return x / y
+
+def power(x, y):
+    return x ** y
+
+def remainder(x, y):
+    return x % y
 
 while True: 
-    print("Select operation.")
+    print("Select operation:")
     print("1.Add")
     print("2.Subtract")
     print("3.Multiply")
@@ -11,29 +28,11 @@ while True:
     print("5.Power")
     print("6.Remainder")
 
-    def add (x, y):
-        return x + y
-
-    def subtract (x, y):
-        return x - y
-
-    def multiply(x, y):
-        return x * y
-
-    def divide(x ,y):
-        return x / y
-
-    def power(x, y):
-        return x ** y
-
-    def remainder(x, y):
-        return x % y
-
     choice = input("Enter choice(1/2/3/4/5/6): ")
-
-    if len(choice) > 1:
+    
+    while len(choice) > 1:
         print ("Only one character is allowed.")
-        break
+        choice = input("Enter choice(1/2/3/4/5/6): ")
 
     if choice > '6.': # (REFER TO TAG 1) : Seeing if this would work ( something to compare to )
         print ("Invalid Input")
