@@ -53,16 +53,12 @@ while True:
     if choice == '123456':
         print ("Invalid Input")
         answer = input('Run again? (y/n): ')
-        if answer == ('y'):
-            continue
         if answer == ('n'):
             sys.exit()
 
     if choice == '4321, 3214, 4132, 3234, 3423':
         print ("Invalid Input")
         answer = input('Run again? (y/n): ')
-        if answer == ('y'):
-            continue
         if answer == ('n'):
             break
         
