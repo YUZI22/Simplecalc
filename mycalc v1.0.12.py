@@ -58,7 +58,7 @@ while True:
     if choice == '4321, 3214, 4132, 3234, 3423':
         print ("Invalid Input")
         answer = input('Run again? (y/n): ')
-        if answer -- ('y'):
+        if answer == ('y'):
             continue
         if answer == ('n'):
             break
@@ -83,22 +83,4 @@ while True:
     else:
         print("Invalid Input")
 
-
-# how to do math sums in python https://www.google.com/search?client=firefox-b-d&q=how+to+do+2+math+sums+at+once+python
-# gui (WIP) : https://opensource.com/article/18/8/pysimplegui
-# to the power of, https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators 
-# nvm just made it end the script when 2 characters are detected.
-# how len works: https://www.geeksforgeeks.org/python-string-length-len/ reads the contents of a string or variable in len 
-# added only 1 character allowed prompt at "select operation" credit: https://stackoverflow.com/questions/12955495/raw-input-should-accept-only-single-character
-#Thinking of making it so that the user can do: add num + num instead of having to select add etc..
-#added the . infront of the 4 at line 26 to change it to a float to accept higher number, and also accept numbers that are decimals (floats).
-#indentation is very important had to change the entire piece of code.
-#DONE WHILE TRUE has to be at the top to start the questions again: refer to my ques: https://stackoverflow.com/questions/58790686/trying-to-make-a-loop-that-stops-on-user-input
-# TAG 1 Right now trying to make it so that if the choice is more than 4 it will say invalid input.
-# TAG 1 DONE!!!, found out you need to put it right after the (Choice) variable, right now it does not stop the script after the user has done an invalid input.
-# TAG 1 Got the method for while from this website: https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements
-# Python operands https://www.tutorialspoint.com/python/comparison_operators_example.htm
-# search what def means and what elif means.
-# Used this for the calc code: https://www.programiz.com/python-programming/examples/calculator also (Calculator.py has the actual file) 
-# Used this website for floating point https://www.google.com/search?client=firefox-b-d&q=how+does+float+input+mean+in+python
 
