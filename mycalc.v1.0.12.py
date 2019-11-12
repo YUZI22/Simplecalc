@@ -31,7 +31,7 @@ while True:
         return x % y
 
     def prcnt(x, y):
-        return x * y / 100
+        return x * y / 100 
 
     choice = input("Enter choice(1/2/3/4/5/6/7): ")
 
@@ -79,7 +79,7 @@ while True:
     elif choice == "6": # Changed single speech mark to double.
         print(num1,"%",num2,"=", remainder(num1,num2))
     elif choice == "7":
-        print(num1,"%",num2,"=", prcnt(num1,num2))
+        print(num1,"%",num2,"=","%", prcnt(num1,num2))
     else:
         print("Invalid Input")
 
