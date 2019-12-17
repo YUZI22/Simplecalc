@@ -12,6 +12,13 @@ def prcnt(a, b):
         return a * b / 100 
 def remainder(a, b):
         return a % b
+def selectop():
+    print ("Select an operation:")
+    selectop = input("Manual define mode (MD)/Automatic define mode (AD): ")
+    if selectop == str("MD"):
+        test()
+    if selectop == str("AD"):
+        options()
 def options():
     while True:
         print ("Select operation:")
@@ -70,9 +77,35 @@ def options():
         else:
             print ("Invalid Input.")
         break
-    
-    
-       
+def test():
+    while True:
+        firstnum = input("1st num: ")
+        mathop = input("Math Operator add(+), subtract(-), divide(/), times(x), powerof(**), prcnt(*/), remainder(*//): ")
+        secndnum = input("2nd num: ")
+        a = float(firstnum)
+        b = float(secndnum)
+        if mathop == str("+"):
+            add(a, b)
+            print (a, mathop, b, "=", add(a, b))
+        if mathop == str("-"):
+            subtract(a, b)
+            print (a, mathop, b, "=", add(a, b))
+        if mathop == str("/"):
+            divide(a, b)
+            print (a, mathop, b, "=", divide(a, b))
+        if mathop == str("x"):
+            times(a, b)
+            print (a, mathop, b, "=", times(a, b))
+        if mathop == str("**"):
+            power(a, b)
+            print (a, mathop, b, "=", power(a, b))
+        if mathop == str("*/"):
+            prcnt(a, b)
+            print (a, mathop, b, "=", prcnt(a, b))
+        if mathop == str("*//"):
+            remainder(a, b)
+            print (a, mathop, b, "=", remainder(a, b))
+        break
 
 print ("""+-+-+-+-+-+-+-+-+-+-+
 |C|a|l|c|u|l|a|t|o|r| 
@@ -82,5 +115,9 @@ print ("""
 |v|.|1|.|0|.|1|3|
 +-+-+-+-+-+-+-+-+""")
 
-options()
+selectop()
+
+
+
+
 
