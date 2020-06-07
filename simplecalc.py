@@ -6,16 +6,12 @@ You can also add multiline comments like these at the start of a script. I would
 	- (possibly a description of what the program is supposed to do)
 	- Date the program was created (idk when you started this so I can't add it myself)
 	- Date the program was last edited
-
 (btw fyi if you don't know what "N/A" means: It means "Not Applicable")
-
 Name: Simplecalc
 Version: 1.0.14
 Authors: Jaron Frerichs <https://github.com/IntelliRon>, Yusef Aslam <https://github.com/YUZI22>
 Date created: N/A
 Date edited: 05/06/2020
-
-
 Btw: The code I wrote may look a little different in some editors, since I used Notepad++ at the start, and used TAB instead of four spaces
 Also. I just added some comments where I fixed errors. You don't always have to do that. Only add comments where necessary (for example to describe what a function does)
 """
@@ -97,7 +93,7 @@ def options():
         b = 0
         try:
             a = float(firstnum)
-            b = float(scndnum)
+            b = float(secndnum)
         except ValueError:
             print ("Error. At least one of the two numbers are not a number!")
             continue
