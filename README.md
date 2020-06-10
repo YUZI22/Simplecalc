@@ -45,7 +45,7 @@ Our main priorities at the moment are:
 These are the ideas we have for the future of the simple* line of applications:
 - GUI for SimpleCalculator
 - Simple Word (A text editor, but with high functionality as a code editor too.)
-- Simple Conference (A conference maker, with ability to create powerpoints too.)
+- Simple Conference (A conference maker, with the ability to create powerpoints too.)
 - Simple OS (A clean and minimal but still highly functional OS, made to be simple, should be understood easily.)
 
 ## License
