@@ -14,8 +14,7 @@ and then do:
 
 `"chmod +x SimpleCalc"`
 
-Our main goal is to be open source and free, forever.
-
+**Features:**
 | Operation | Description |
 | --- | --- |
 | `add` | Adds one number to the second |
