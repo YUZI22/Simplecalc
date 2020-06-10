@@ -28,7 +28,7 @@ and then do:
 | `remainder` | Gets the remainder of the result of dividing two numbers |
 
 ## Current Main Priorities:
-Our main prioritise at the moment are:
+Our main priorities at the moment are:
 - More efficient code, but more functionality
 - Adding a GUI to SimpleCalculator
 - Streamlined code to run on any hardware, no matter how big the sum is
