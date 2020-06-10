@@ -1,12 +1,17 @@
+:thumbsup: First off, thanks for taking the time to contribute! :thumbsup: 
+
+The following is a set of guidelines for contributing to SimpleCalculator and its packages, which are hosted in the Simplecalc repository on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
 ## Contributing Guidelines:
-We expect everyone that contributes to this project to follow the highest possible standards of ethical business. The commitment for the highest standards allows for us to be taken more seriously, as this project is serious and we love working on it, but people must follow this code. This also helps us have a good work path which lets us work on code in a more professional way.
+We expect everyone that contributes to this project to follow the highest possible standards of ethical workflow. The commitment for the highest standards allows for us to be taken more seriously, as this project is serious and we love working on it, but people must follow this code. This also helps us have a good work path which lets us work on code in a more professional way.
 
 **Who Must Follow Our Code?:**
-We expect all of the people the contribute to the project to know and follow the Code. Failure to do so can result in disciplinary action.
+We expect all of the people the contribute to the project to know and follow the Code. Failure to do so can result in
+the relevent actions.
 
 **What If I Have a Code-Related Question or Concern?:**
 If you have a question or concern regarding code please report it to either me or IntelliRon (Jaron Frerichs).
-Remember, we may be busy sometimes writing code, so be patient if we do not respond.
+Remember, we may be busy sometimes writing code etc.., so be patient if we do not respond.
 
 **Before contributing, make sure the code you wrote meets these guidelines:**
 - Please review your code before contributing and make sure there is no errors
