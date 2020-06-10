@@ -2,10 +2,10 @@
 # SimpleCalculator 
 
 **Dependencies:**
-- Python 3.8
+- [Python 3.8](https://www.python.org/about/)
 
 This is a project, which was created by me (Yusef Aslam) and IntelliRon (Big thanks).
-It is based on [Python](https://www.python.org/about/) and I chose it since, when I first started this project
+It is based on Python and I chose it since, when I first started this project
 I felt that Python was a good programming language for this. I also learned as I went along
 and it is really fun!!
 
