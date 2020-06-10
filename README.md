@@ -50,4 +50,4 @@ These are the ideas we have for the future of the simple* line of applications:
 
 ## License
 Copyright (c) 2020, Yusef Aslam. (MIT License)
-See LICENSE.md for more info.
+See LICENSE for more info.
