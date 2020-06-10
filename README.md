@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/{YUZI22}/{Simplecalc}.png?branch=master)](https://travis-ci.org/{YUZI22}/{Simplecalc})
+[![Build Status](https://travis-ci.org/{YUZI22}/{Simplecalc}.png?branch=SimpleCalcV1.0.14)](https://travis-ci.org/{YUZI22}/{Simplecalc})
 # SimpleCalculator 
 This is a project, which was created by me (Yusef Aslam) with the help of IntelliRon.
 
