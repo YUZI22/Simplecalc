@@ -32,7 +32,7 @@ and then do:
 
 ## Current Main Priorities:
 Our main priorities at the moment are:
-- Launchers for Windows and Linux
+- Launchers for Windows and Linux (**DONE**)
 - More efficient code, but more functionality
 - Adding a GUI to SimpleCalculator
 - Streamlined code to run on any hardware, no matter how big the sum is
