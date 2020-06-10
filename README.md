@@ -32,11 +32,11 @@ and then do:
 
 ## Current Main Priorities:
 Our main priorities at the moment are:
-- [x] Launchers for Windows and Linux
-- [ ] More efficient code, but more functionality
-- [ ] Adding a GUI to SimpleCalculator
-- [ ] Streamlined code to run on any hardware, no matter how big the sum is
-- [ ] SimpleCalculator API, to run in websites etc..
+- Launchers for Windows and Linux [x]
+- More efficient code, but more functionality [ ]
+- Adding a GUI to SimpleCalculator [ ]
+- Streamlined code to run on any hardware, no matter how big the sum is [ ]
+- SimpleCalculator API, to run in websites etc.. [ ]
 
 ## Other Ideas
 These are the ideas we have for the future of the simple* line of applications:
