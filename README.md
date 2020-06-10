@@ -49,4 +49,5 @@ These are the ideas we have for the future of the simple* line of applications:
 - Simple OS (A clean and minimal but still highly functional OS, made to be simple, should be understood easily.)
 
 **If you are new to python, I recommend this video to watch:**
+
 [![Python Learning Guide](http://img.youtube.com/vi/rfscVS0vtbw/0.jpg)](http://www.youtube.com/watch?v=rfscVS0vtbw)
