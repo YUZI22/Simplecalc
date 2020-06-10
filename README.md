@@ -1,5 +1,5 @@
 # SimpleCalculator 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 This is a project, which was created by me (Yusef Aslam) with the help of IntelliRon.
 
