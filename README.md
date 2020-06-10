@@ -16,6 +16,17 @@ and then do:
 
 Our main goal is to be open source and free, forever.
 
+| Operation | Description |
+| --- | --- |
+| `add` | Adds one number to the second |
+| `subtract` | Suctracts one number from the second |
+| `divide` | Divides two numbers |
+| `multiply` | Multiplies two numbers together |
+| `power` | Can take the first number to the power of the second |
+| `percentage` | A function to get a percentage of two numbers |
+| `remainder` | Gets the remainder of the result of dividing two numbers |
+
+
 ## Other Ideas
 These are the ideas we have for the future of the simple* line of applications:
 - GUI for SimpleCalculator
