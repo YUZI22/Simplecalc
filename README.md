@@ -1,7 +1,10 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 # SimpleCalculator 
 
-This is a project, which was created by me (Yusef Aslam) with the help of IntelliRon.
+This is a project, which was created by me (Yusef Aslam) and IntelliRon (Big thanks).
+It is based on python and I chose python since, when I first started this project
+I felt that Python was a good programming language for this. I also learned as I went along
+and it is really fun!!
 
 It is centered around the idea that all software should be easy to use, and it should be functional but still
 minimal and it has to look pleasing to the eye.
