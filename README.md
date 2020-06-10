@@ -1,6 +1,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 # SimpleCalculator 
 
+**Dependencies:**
+- Python 3.8
+
 This is a project, which was created by me (Yusef Aslam) and IntelliRon (Big thanks).
 It is based on [Python](https://www.python.org/about/) and I chose it since, when I first started this project
 I felt that Python was a good programming language for this. I also learned as I went along
