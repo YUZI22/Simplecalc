@@ -14,6 +14,7 @@ and then do:
 
 `"chmod +x SimpleCalc"`
 
+
 **Features:**
 | Operation | Description |
 | --- | --- |
@@ -24,6 +25,7 @@ and then do:
 | `power` | Can take the first number to the power of the second |
 | `percentage` | A function to get a percentage of two numbers |
 | `remainder` | Gets the remainder of the result of dividing two numbers |
+
 
 ## Other Ideas
 These are the ideas we have for the future of the simple* line of applications:
