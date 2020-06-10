@@ -24,6 +24,7 @@ and then do:
 | `power` | Can take the first number to the power of the second |
 | `percentage` | A function to get a percentage of two numbers |
 | `remainder` | Gets the remainder of the result of dividing two numbers |
+| `launchers` | SimpleCalculator also comes with launchers for Windows and Linux |
 
 
 ## Other Ideas
