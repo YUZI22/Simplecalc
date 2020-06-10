@@ -1,5 +1,6 @@
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 # SimpleCalculator 
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 This is a project, which was created by me (Yusef Aslam) with the help of IntelliRon.
 
 It is centered around the idea that all software should be easy to use, and it should be functional but still
@@ -12,6 +13,8 @@ To download, please download using zip on this website, or in the terminal do:
 and then do:
 
 `"chmod +x SimpleCalc"`
+
+Our main goal is to be open source and free, forever.
 
 ## Other Ideas
 These are the ideas we have for the future of the simple* line of applications:
