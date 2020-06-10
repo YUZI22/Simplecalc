@@ -9,7 +9,7 @@ To download, please download using zip on this website, or in the terminal do:
 and then do:
 "chmod +x SimpleCalc"
 
-#Other Ideas
+## Other Ideas
 These are the ideas we have for the future of the simple* line of applications:
 - GUI for SimpleCalculator
 - Simple Word (A text editor, but with high functionality as a code editor too.)
