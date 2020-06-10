@@ -1,4 +1,4 @@
-#SimpleCalculator 
+# SimpleCalculator 
 This is a project, which was created by me (Yusef Aslam) with the help of IntelliRon.
 
 It is centered around the idea that all software should be easy to use, and it should be functional but still
