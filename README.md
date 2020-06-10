@@ -16,9 +16,9 @@ To download, please download using zip on this website, or in the terminal do:
 
 `"git clone https://github.com/YUZI22/Simplecalc.git"`
 
-and then do:
+and then do *(Applies to Linux, not needed for Windows):*
 
-`"chmod +x SimpleCalc"`
+`"chmod +x simplecalc1.0.14.py && chmod +x simplecalclauncherlinux.sh"`
 
 
 
