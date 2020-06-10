@@ -2,7 +2,7 @@
 This is a project, which was created by me (Yusef Aslam) with the help of IntelliRon.
 
 It is centered around the idea that all software should be easy to use, and it should be functional but still
-minimal.
+minimal and it has to look pleasing to the eye.
 
 To download, please download using zip on this website, or in the terminal do: 
 "git clone https://github.com/YUZI22/Simplecalc.git"
