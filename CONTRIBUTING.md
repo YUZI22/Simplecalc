@@ -16,7 +16,7 @@ Remember, we may be busy sometimes writing code etc.., so be patient if we do no
 **Before contributing, make sure the code you wrote meets these guidelines:**
 - Please review your code before contributing and make sure there is no errors
 - Do not rush the pull request, because me or IntelliRon (Jaron Frerichs) may be busy and may not be able to review it until we are free.
-- We expect you to behave professionally, as this is a real projects and we do not endorse bad language and behaviour
+- We expect you to behave professionally, as this is a real project and we do not endorse bad language and behaviour
 - Simple Calculator is open to contribution, but making copies and marking as your own is not endorsed.
 - Make sure the code you contribute with is useful/more useful than current code, adding non-useful features will get the pull request cancelled.
 - Please actively respond to messages we give you about your code. Part of being useful and honest is responsive, we recognize relevent user feedback when we see it, and we do something about it. If something is broken, fix it.
