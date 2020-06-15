@@ -51,3 +51,4 @@ These are the ideas we have for the future of the simple* line of applications:
 ## License
 Copyright (c) 2020, Yusef Aslam. (AGPL V3.0 License)
 See LICENSE for more info.
+Also, please see [This Website](https://resources.whitesourcesoftware.com/blog-whitesource/top-10-gpl-license-questions-answered) if you need more help with the license.
