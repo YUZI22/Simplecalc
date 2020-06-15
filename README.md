@@ -49,5 +49,5 @@ These are the ideas we have for the future of the simple* line of applications:
 - Simple OS (A clean and minimal but still highly functional OS, made to be simple, should be understood easily.)
 
 ## License
-Copyright (c) 2020, Yusef Aslam. (MIT License)
+Copyright (c) 2020, Yusef Aslam. (AGPL V3.0 License)
 See LICENSE for more info.
