@@ -49,6 +49,5 @@ These are the ideas we have for the future of the simple* line of applications:
 - Simple OS (A clean and minimal but still highly functional OS, made to be simple, should be understood easily.)
 
 ## License
-Copyright (c) 2020, Yusef Aslam. (AGPL V3.0 License)
+Copyright (c) 2020, Yusef Aslam. (BSD License)
 See LICENSE for more info.
-Also, please see [This Website](https://resources.whitesourcesoftware.com/blog-whitesource/top-10-gpl-license-questions-answered) if you need more help with the license.
